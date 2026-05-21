@@ -16,16 +16,16 @@ grazie alla natura stessa di questo sito, che ha la forma di un _digital
 garden_ in continua crescita.
 
 
-# Come utilizzare il sito
+# Come utilizzare questo sito
 
-## Contenuti
+## I contenuti
 Nonostante la vastità della materia trattata, i contenuti sono organizzati in
 modo molto semplice in questo sito, anzi volutamente non sono organizzati: le
 pagine relative ai singoli concetti sono tutte contenute nella cartella
 "Contenuti". In questo modo spero di rendere più fluida la connessione tra le
 diverse materie.
 
-## Indici
+## Gli indici
 Per facilitare la navigazione nel sito, ogni pagina è comunque categorizzata
 per argomento; per ciascuno di questi, inoltre, è o sarà presente una pagina
 dedicata con una presentazione generale, oltre a un elenco di tutte le pagine
@@ -33,3 +33,24 @@ relative.
 
 Ecco una lista degli indici attualmente esistenti.
 ...
+
+## Gli insegnamenti
+Per comodità personale, nonostante l'intenzione di mantenere indipendente
+l'organizzazione di questo sito dal mio percorso universitario, è comunque
+presente per ogni insegnamento seguito una pagina dedicata, con informazioni di
+carattere generale e un documento contenente le note complete, scritte da me,
+del corso in questione.
+
+Ecco una lista degli insegnamenti che ho seguito o sto seguendo.
+...
+
+
+# Come ho realizzato questo sito
+...
+
+
+# Disclaimer
+Questo sito è _work in progress_ e tale rimarrà finché troverò il tempo e
+l'interesse necessari per portare avanti il progetto. Spesso saranno presenti
+link a pagine non esistenti, soprattutto in caso di riferimenti ad argomenti
+che non ho ancora affrontato in dettaglio nel corso dei miei studi.
