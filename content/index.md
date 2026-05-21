@@ -15,6 +15,9 @@ che voglio recuperare;
 grazie alla natura stessa di questo sito, che ha la forma di un _digital
 garden_ in continua crescita.
 
+
+# Come utilizzare il sito
+
 ## Contenuti
 Nonostante la vastità della materia trattata, i contenuti sono organizzati in
 modo molto semplice in questo sito, anzi volutamente non sono organizzati: le
