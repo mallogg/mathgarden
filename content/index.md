@@ -32,7 +32,6 @@ dedicata con una presentazione generale, oltre a un elenco di tutte le pagine
 relative.
 
 Ecco una lista degli indici attualmente esistenti.
-...
 
 ## Gli insegnamenti
 Per comodità personale, nonostante l'intenzione di mantenere indipendente
@@ -42,6 +41,27 @@ carattere generale e un documento contenente le note complete, scritte da me,
 del corso in questione.
 
 Ecco una lista degli insegnamenti che ho seguito o sto seguendo.
+- Primo anno
+    - Fisica I (annuale)
+    - Primo semestre
+        - [[Algebra Lineare e Geometria]]
+        - Analisi Matematica I
+    - Secondo semestre
+        - Algebra I
+        - Geometria I
+        - Laboratorio di Matematica e Informatica
+- Secondo anno
+    - Primo semestre
+        - Algebra II
+        - Analisi Matematica II
+        - Calcolo Numerico
+    - Secondo semestre
+        - Algoritmi e Programmazione
+        - Geometria II
+        - Sistemi Dinamici e Meccanica Classica
+        - Teoria della Misura
+
+## Navigazione delle pagine
 ...
 
 
