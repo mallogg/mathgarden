@@ -18,14 +18,14 @@ garden_ in continua crescita.
 
 # Come utilizzare questo sito
 
-## I contenuti
+## Contenuti
 Nonostante la vastità della materia trattata, i contenuti sono organizzati in
 modo molto semplice in questo sito, anzi volutamente non sono organizzati: le
 pagine relative ai singoli concetti sono tutte contenute nella cartella
 "Contenuti". In questo modo spero di rendere più fluida la connessione tra le
 diverse materie.
 
-## Gli indici
+## Indici
 Per facilitare la navigazione nel sito, ogni pagina è comunque categorizzata
 per argomento; per ciascuno di questi, inoltre, è o sarà presente una pagina
 dedicata con una presentazione generale, oltre a un elenco di tutte le pagine
@@ -33,7 +33,7 @@ relative.
 
 Ecco una lista degli indici attualmente esistenti.
 
-## Gli insegnamenti
+## Insegnamenti
 Per comodità personale, nonostante l'intenzione di mantenere indipendente
 l'organizzazione di questo sito dal mio percorso universitario, è comunque
 presente per ogni insegnamento seguito una pagina dedicata, con informazioni di
@@ -42,24 +42,24 @@ del corso in questione.
 
 Ecco una lista degli insegnamenti che ho seguito o sto seguendo.
 - Primo anno
-    - Fisica I (annuale)
+    - [[Fisica I]] (annuale)
     - Primo semestre
         - [[Algebra Lineare e Geometria]]
-        - Analisi Matematica I
+        - [[Analisi Matematica I]]
     - Secondo semestre
-        - Algebra I
-        - Geometria I
-        - Laboratorio di Matematica e Informatica
+        - [[Algebra I]]
+        - [[Geometria I]]
+        - [[Laboratorio di Matematica e Informatica]]
 - Secondo anno
     - Primo semestre
-        - Algebra II
-        - Analisi Matematica II
-        - Calcolo Numerico
+        - [[Algebra II]]
+        - [[Analisi Matematica II]]
+        - [[Calcolo Numerico]]
     - Secondo semestre
-        - Algoritmi e Programmazione
-        - Geometria II
-        - Sistemi Dinamici e Meccanica Classica
-        - Teoria della Misura
+        - [[Algoritmi e Programmazione]]
+        - [[Geometria II]]
+        - [[Sistemi Dinamici e Meccanica Classica]]
+        - [[Teoria della Misura]]
 
 ## Navigazione delle pagine
 ...
