@@ -1,8 +1,5 @@
 ---
 title: Benvenuto nel Math Garden!
-aliases: []
-id: index
-tags: []
 ---
 
 Questo progetto è nato con l'intenzione di continuare a imparare e arricchire
